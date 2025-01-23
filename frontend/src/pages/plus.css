@@ -1,0 +1,10 @@
+
+.plustox {
+    transform: rotate(45deg);
+    transition: transform 0.3s linear;
+}
+
+.xtoplus {
+    transform: rotate(0deg);
+    transition: transform 0.3s linear;
+}
